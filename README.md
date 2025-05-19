@@ -2,7 +2,7 @@
 
 *A classic Bomberman clone built with Pygame by a Python beginner, showcasing effective AI collaboration*
 
-![Gameplay Demo](assets/screenshots/gameplay.png) 
+![Gameplay Demo](bomberman/assets/gameplay.png) 
 
 ## Features ✨
 - **Multiplayer Modes**: 1P vs AI or 2P local battles
