@@ -3,6 +3,14 @@
 *A classic Bomberman clone built with Pygame by a Python beginner, showcasing effective AI collaboration*
 
 ![Gameplay Demo](bomberman/assets/gameplay.png) 
+## How to download the game to your computer
+- If you have the python environment, you can download the bomberman directory
+- if you don't want to run it in a python environment, you can directly download the release.zip file and uncompress it to play it
+  - if you can't play it
+  - Try
+    - Right-click the file
+    - Properties → Check "Unblock"
+    - Click "OK".
 
 ## Features ✨
 - **Multiplayer Modes**: 1P vs AI or 2P local battles
