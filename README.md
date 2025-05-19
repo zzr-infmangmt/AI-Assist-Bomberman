@@ -1,5 +1,3 @@
-from src.constants import TILE_SIZE
-
 # Pygame Bomberman 🎮💣
 
 *A classic Bomberman clone built with Pygame by a Python beginner, showcasing effective AI collaboration*
